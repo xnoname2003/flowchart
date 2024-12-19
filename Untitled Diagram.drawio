@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="r74UQGcYIdEfq9WCmW9a">
-    <mxGraphModel dx="937" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,10 +128,37 @@
           <mxGeometry x="530" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G4xtcVeBtNWU3GUMzAdZ-42" value="&lt;u&gt;*no_struk&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="230" width="80" height="50" as="geometry" />
+          <mxGeometry x="650" y="120" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G4xtcVeBtNWU3GUMzAdZ-43" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;tgl_transaksi&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="230" width="80" height="50" as="geometry" />
+        <mxCell id="G4xtcVeBtNWU3GUMzAdZ-43" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;**IdLayanan&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="110" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G4xtcVeBtNWU3GUMzAdZ-44" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;tgl_transaksi&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="160" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G4xtcVeBtNWU3GUMzAdZ-45" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;kuantitas&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G4xtcVeBtNWU3GUMzAdZ-46" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;total_harga&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G4xtcVeBtNWU3GUMzAdZ-47" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;total_harga&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G4xtcVeBtNWU3GUMzAdZ-48" value="&lt;u&gt;*no_struk&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="520" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G4xtcVeBtNWU3GUMzAdZ-49" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;dp&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="570" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G4xtcVeBtNWU3GUMzAdZ-50" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;grand_total&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="520" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G4xtcVeBtNWU3GUMzAdZ-52" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;sisa_pembayaran&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="580" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G4xtcVeBtNWU3GUMzAdZ-53" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;total_harga&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="585" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
