@@ -5,16 +5,61 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SmXy3KialDvkeYZn-F0a-1" value="Ruang Kelas 209" style="swimlane;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="150" width="210" height="180" as="geometry" />
+          <mxGeometry x="100" y="150" width="210" height="190" as="geometry" />
         </mxCell>
         <mxCell id="SmXy3KialDvkeYZn-F0a-3" value="Tempat: Gedung Teknik" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-1">
-          <mxGeometry x="20" y="79" width="150" height="30" as="geometry" />
+          <mxGeometry x="15" y="79" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SmXy3KialDvkeYZn-F0a-2" value="Spesial dari: Ruangan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-1">
-          <mxGeometry x="20" y="39" width="140" height="30" as="geometry" />
+        <mxCell id="SmXy3KialDvkeYZn-F0a-2" value="Spesialisasi dari: Ruangan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-1">
+          <mxGeometry x="15" y="39" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SmXy3KialDvkeYZn-F0a-4" value="Isi: Kursi, Meja, Papan Tulis,&lt;div&gt;Projektor&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-1">
-          <mxGeometry x="20" y="121" width="170" height="40" as="geometry" />
+        <mxCell id="SmXy3KialDvkeYZn-F0a-4" value="Isi: Kursi Kelas, Meja Kelas,&amp;nbsp;&lt;div&gt;Papan Tulis Kelas,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Projektor&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Kelas&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-1">
+          <mxGeometry x="15" y="120" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-5" value="Kursi Kelas" style="swimlane;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="70" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-6" value="Tinggi: 45-55 cm" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-5">
+          <mxGeometry x="25" y="69" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-7" value="Spesialisasi dari: Kursi" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-5">
+          <mxGeometry x="25" y="39" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-8" value="Jumlah Kaki: 2" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-5">
+          <mxGeometry x="25" y="99" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-9" value="Kegunaan: Tempat Duduk" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-5">
+          <mxGeometry x="25" y="129" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-10" value="Papan Tulis Kelas" style="swimlane;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="215" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-11" value="Panjang: 200-220 cm" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-10">
+          <mxGeometry x="12.5" y="69" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-12" value="Spesialisasi dari: Papan Tulis" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-10">
+          <mxGeometry x="12.5" y="39" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-13" value="Lebar: 100-120 cm" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-10">
+          <mxGeometry x="12.5" y="99" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-14" value="Kegunaan: Tempat Menulis dan&lt;div&gt;Menampilkan Materi&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-10">
+          <mxGeometry x="12.5" y="124" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-15" value="Projektor Kelas" style="swimlane;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="510" width="215" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-16" value="Panjang: 30-40 cm" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-15">
+          <mxGeometry x="12.5" y="69" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-17" value="Spesialisasi dari: Projektor" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-15">
+          <mxGeometry x="12.5" y="39" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-18" value="Lebar: 20-30 cm" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-15">
+          <mxGeometry x="12.5" y="99" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-19" value="Kegunaan: &lt;span style=&quot;background-color: initial;&quot;&gt;Menampilkan Materi&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-15">
+          <mxGeometry x="12.5" y="129" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
