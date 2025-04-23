@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="N7bMSWEaQPia7fiJM-LZ">
-    <mxGraphModel>
+    <mxGraphModel dx="984" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SmXy3KialDvkeYZn-F0a-1" value="Ruang Kelas 209" style="swimlane;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-3" value="Tempat: Gedung Teknik" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-1">
+          <mxGeometry x="20" y="79" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-2" value="Spesial dari: Ruangan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-1">
+          <mxGeometry x="20" y="39" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmXy3KialDvkeYZn-F0a-4" value="Isi: Kursi, Meja, Papan Tulis,&lt;div&gt;Projektor&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SmXy3KialDvkeYZn-F0a-1">
+          <mxGeometry x="20" y="121" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
