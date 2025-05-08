@@ -1,9 +1,111 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.3.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.1">
   <diagram name="Page-1" id="YaAHhkxjsvG5TJ8yAYWc">
-    <mxGraphModel>
+    <mxGraphModel dx="1425" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dsll3exdrMXARBM9Wsw4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.121;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-1" target="dsll3exdrMXARBM9Wsw4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="349.8571428571429" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="360" />
+              <mxPoint x="380" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.229;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-1" target="dsll3exdrMXARBM9Wsw4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="350.20000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="350" />
+              <mxPoint x="390" y="450" />
+              <mxPoint x="390" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.346;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-1" target="dsll3exdrMXARBM9Wsw4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="335.1111111111111" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="340" />
+              <mxPoint x="400" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.01;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-1" target="dsll3exdrMXARBM9Wsw4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="370" />
+              <mxPoint x="370" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.439;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-1" target="dsll3exdrMXARBM9Wsw4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="335.1111111111111" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="330" />
+              <mxPoint x="409" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-1" value="Pelanggan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-2" value="Jasa Pengiriman" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-3" value="Penjual" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.004;exitY=0.443;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-4" target="dsll3exdrMXARBM9Wsw4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="515.1111111111111" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.662;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-4" target="dsll3exdrMXARBM9Wsw4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="514.9041095890411" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="369" y="520" />
+              <mxPoint x="119" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.027;exitY=0.666;exitDx=0;exitDy=0;entryX=0.585;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-4" target="dsll3exdrMXARBM9Wsw4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="514.9041095890411" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="369" y="530" />
+              <mxPoint x="110" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.09;exitY=0.784;exitDx=0;exitDy=0;entryX=0.504;entryY=1.044;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-4" target="dsll3exdrMXARBM9Wsw4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="515" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="369" y="541" />
+              <mxPoint x="101" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.192;exitY=0.887;exitDx=0;exitDy=0;entryX=0.419;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-4" target="dsll3exdrMXARBM9Wsw4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="546.6666666666666" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="382" y="550" />
+              <mxPoint x="90" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-4" value="Sistem Penjualan Tanaman&lt;div&gt;Hias&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="369" y="470" width="90" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
