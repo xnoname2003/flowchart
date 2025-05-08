@@ -13,6 +13,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-32" value="Bayar Pesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dsll3exdrMXARBM9Wsw4-6">
+          <mxGeometry x="-0.4953" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dsll3exdrMXARBM9Wsw4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.229;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-1" target="dsll3exdrMXARBM9Wsw4-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="350.20000000000005" as="targetPoint" />
@@ -21,6 +26,11 @@
               <mxPoint x="390" y="450" />
               <mxPoint x="390" y="450" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-31" value="Buat Pesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dsll3exdrMXARBM9Wsw4-7">
+          <mxGeometry x="-0.5513" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dsll3exdrMXARBM9Wsw4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.346;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-1" target="dsll3exdrMXARBM9Wsw4-4">
@@ -32,6 +42,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-30" value="Lihat Katalog" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dsll3exdrMXARBM9Wsw4-8">
+          <mxGeometry x="-0.5398" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dsll3exdrMXARBM9Wsw4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.01;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-1" target="dsll3exdrMXARBM9Wsw4-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="470" as="targetPoint" />
@@ -41,6 +56,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-33" value="Ulasan dan Rating" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dsll3exdrMXARBM9Wsw4-9">
+          <mxGeometry x="-0.5204" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dsll3exdrMXARBM9Wsw4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.439;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-1" target="dsll3exdrMXARBM9Wsw4-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="335.1111111111111" as="targetPoint" />
@@ -48,6 +68,11 @@
               <mxPoint x="160" y="330" />
               <mxPoint x="409" y="330" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-26" value="Registrasi/Login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dsll3exdrMXARBM9Wsw4-10">
+          <mxGeometry x="-0.5486" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dsll3exdrMXARBM9Wsw4-1" value="Pelanggan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -110,6 +135,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-34" value="Konfirmasi Registrasi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dsll3exdrMXARBM9Wsw4-11">
+          <mxGeometry x="-0.2821" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dsll3exdrMXARBM9Wsw4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.662;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-4" target="dsll3exdrMXARBM9Wsw4-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="514.9041095890411" as="targetPoint" />
@@ -117,6 +147,11 @@
               <mxPoint x="369" y="520" />
               <mxPoint x="119" y="520" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-35" value="Informasi Produk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dsll3exdrMXARBM9Wsw4-12">
+          <mxGeometry x="-0.3106" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dsll3exdrMXARBM9Wsw4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.027;exitY=0.666;exitDx=0;exitDy=0;entryX=0.585;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-4" target="dsll3exdrMXARBM9Wsw4-1">
@@ -128,6 +163,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-36" value="Konfirmasi Pesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dsll3exdrMXARBM9Wsw4-13">
+          <mxGeometry x="-0.3581" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dsll3exdrMXARBM9Wsw4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.09;exitY=0.784;exitDx=0;exitDy=0;entryX=0.504;entryY=1.044;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-4" target="dsll3exdrMXARBM9Wsw4-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="515" as="targetPoint" />
@@ -137,6 +177,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-37" value="Status Pengiriman" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dsll3exdrMXARBM9Wsw4-14">
+          <mxGeometry x="-0.3626" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dsll3exdrMXARBM9Wsw4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.192;exitY=0.887;exitDx=0;exitDy=0;entryX=0.419;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-4" target="dsll3exdrMXARBM9Wsw4-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="546.6666666666666" as="targetPoint" />
@@ -144,6 +189,11 @@
               <mxPoint x="382" y="550" />
               <mxPoint x="90" y="550" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsll3exdrMXARBM9Wsw4-38" value="Faktur/Invoice" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dsll3exdrMXARBM9Wsw4-15">
+          <mxGeometry x="-0.366" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dsll3exdrMXARBM9Wsw4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.417;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dsll3exdrMXARBM9Wsw4-4" target="dsll3exdrMXARBM9Wsw4-3">
