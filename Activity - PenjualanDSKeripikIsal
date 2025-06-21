@@ -112,7 +112,7 @@
         <mxCell id="hZe7DRyJ5SFJ-O_IEpeI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hZe7DRyJ5SFJ-O_IEpeI-2" source="hZe7DRyJ5SFJ-O_IEpeI-38" target="hZe7DRyJ5SFJ-O_IEpeI-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZe7DRyJ5SFJ-O_IEpeI-38" value="Status Pesanan &quot;Telah Dibayar&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hZe7DRyJ5SFJ-O_IEpeI-2">
+        <mxCell id="hZe7DRyJ5SFJ-O_IEpeI-38" value="Status Pesanan Menjadi &quot;Confirmed&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hZe7DRyJ5SFJ-O_IEpeI-2">
           <mxGeometry x="19.999999999999545" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hZe7DRyJ5SFJ-O_IEpeI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hZe7DRyJ5SFJ-O_IEpeI-2" source="hZe7DRyJ5SFJ-O_IEpeI-40" target="hZe7DRyJ5SFJ-O_IEpeI-42">
