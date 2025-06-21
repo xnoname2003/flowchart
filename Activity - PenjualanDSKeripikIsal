@@ -154,7 +154,7 @@
         <mxCell id="hZe7DRyJ5SFJ-O_IEpeI-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hZe7DRyJ5SFJ-O_IEpeI-2" source="hZe7DRyJ5SFJ-O_IEpeI-52" target="hZe7DRyJ5SFJ-O_IEpeI-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZe7DRyJ5SFJ-O_IEpeI-52" value="Terima Pesanan&amp;nbsp;&amp;nbsp;dan Status Pesanan Menjadi &quot;Delivered&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hZe7DRyJ5SFJ-O_IEpeI-2">
+        <mxCell id="hZe7DRyJ5SFJ-O_IEpeI-52" value="Terima Pesanan dan Status Pesanan Menjadi &quot;Delivered&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hZe7DRyJ5SFJ-O_IEpeI-2">
           <mxGeometry x="19.999999999999545" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hZe7DRyJ5SFJ-O_IEpeI-57" value="Beri Rating dan Ulasan Pesanan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hZe7DRyJ5SFJ-O_IEpeI-2">
