@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hZe7DRyJ5SFJ-O_IEpeI-1" value="Penjualan Dengan Sistem" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
+        <mxCell id="hZe7DRyJ5SFJ-O_IEpeI-1" value="Penjualan Tanpa Sistem" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="-400" width="320" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="hZe7DRyJ5SFJ-O_IEpeI-2" value="Pelanggan" style="swimlane;startSize=20;html=1;" parent="hZe7DRyJ5SFJ-O_IEpeI-1" vertex="1">
