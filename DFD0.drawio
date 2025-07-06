@@ -24,7 +24,7 @@
         <mxCell id="WvAAO069rMZkBU2wUNpd-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="WvAAO069rMZkBU2wUNpd-2" target="WvAAO069rMZkBU2wUNpd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WvAAO069rMZkBU2wUNpd-10" value="Kelola Transaksi &amp;amp; Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="WvAAO069rMZkBU2wUNpd-9">
+        <mxCell id="WvAAO069rMZkBU2wUNpd-10" value="Kelola Transaksi&lt;br&gt;&amp;amp; Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="WvAAO069rMZkBU2wUNpd-9">
           <mxGeometry x="0.0683" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
