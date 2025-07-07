@@ -72,6 +72,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CbBDcJ3HCzYPkdTsJaEf-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="YZ_7ZJklDh7weQv1-c1d-3" target="YZ_7ZJklDh7weQv1-c1d-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CbBDcJ3HCzYPkdTsJaEf-17" value="Kelola Data&lt;br&gt;Parfum" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="CbBDcJ3HCzYPkdTsJaEf-15">
+          <mxGeometry x="0.5305" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YZ_7ZJklDh7weQv1-c1d-3" value="&lt;div&gt;2&lt;/div&gt;&lt;div&gt;Manajemen&lt;/div&gt;&lt;div&gt;Data Master&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="374" y="260" width="80" height="80" as="geometry" />
         </mxCell>
@@ -164,6 +172,20 @@
         </mxCell>
         <mxCell id="YZ_7ZJklDh7weQv1-c1d-10" value="Ms_Toko" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CbBDcJ3HCzYPkdTsJaEf-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="YZ_7ZJklDh7weQv1-c1d-11" target="YZ_7ZJklDh7weQv1-c1d-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="240" />
+              <mxPoint x="567" y="240" />
+              <mxPoint x="567" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CbBDcJ3HCzYPkdTsJaEf-19" value="Data Parfum" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="CbBDcJ3HCzYPkdTsJaEf-16">
+          <mxGeometry x="0.5552" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YZ_7ZJklDh7weQv1-c1d-11" value="Ms_Parfum" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="680" y="180" width="120" height="60" as="geometry" />
