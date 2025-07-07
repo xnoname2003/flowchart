@@ -59,7 +59,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YZ_7ZJklDh7weQv1-c1d-3" value="&lt;div&gt;2&lt;/div&gt;&lt;div&gt;Manajemen&lt;/div&gt;&lt;div&gt;Master Data&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="YZ_7ZJklDh7weQv1-c1d-3" value="&lt;div&gt;2&lt;/div&gt;&lt;div&gt;Manajemen&lt;/div&gt;&lt;div&gt;Data Master&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="374" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YZ_7ZJklDh7weQv1-c1d-4" value="&lt;div&gt;3&lt;/div&gt;&lt;div&gt;Laporan&lt;/div&gt;&lt;div&gt;Keuangan&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -160,6 +160,14 @@
         </mxCell>
         <mxCell id="YZ_7ZJklDh7weQv1-c1d-13" value="Trx_Layanan" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CbBDcJ3HCzYPkdTsJaEf-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.712;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="YZ_7ZJklDh7weQv1-c1d-6" target="YZ_7ZJklDh7weQv1-c1d-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CbBDcJ3HCzYPkdTsJaEf-11" value="Kelola Data&lt;br&gt;Master" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="CbBDcJ3HCzYPkdTsJaEf-10">
+          <mxGeometry x="-0.2099" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
