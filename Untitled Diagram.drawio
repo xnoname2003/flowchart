@@ -1,112 +1,155 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="jP6bB-IF2e0HoX6STo5k">
-    <mxGraphModel dx="2329" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2221" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YdkpHB-milOF_5n023qd-1" value="Garstik ajg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-2" target="YdkpHB-milOF_5n023qd-5">
+        <mxCell id="YdkpHB-milOF_5n023qd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-2" target="YdkpHB-milOF_5n023qd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YdkpHB-milOF_5n023qd-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="330" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-5" target="YdkpHB-milOF_5n023qd-7">
+        <mxCell id="YdkpHB-milOF_5n023qd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-5" target="YdkpHB-milOF_5n023qd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-5" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;Seleksi &amp;amp; Evaluasi Supplier&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="350" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-5" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font style=&quot;&quot;&gt;Seleksi &amp;amp; Evaluasi Supplier&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="270" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-7" target="YdkpHB-milOF_5n023qd-9">
+        <mxCell id="YdkpHB-milOF_5n023qd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-7" target="YdkpHB-milOF_5n023qd-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-7" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pembelian peralatan]&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="500" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-7" value="&lt;span style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;&lt;font style=&quot;&quot;&gt;Pembelian peralatan]&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="403" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-9" target="YdkpHB-milOF_5n023qd-10">
+        <mxCell id="YdkpHB-milOF_5n023qd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-9" target="YdkpHB-milOF_5n023qd-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-9" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pembelian Bahan Baku utama&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="640" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-9" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pembelian Bahan Baku utama&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="530" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-10" target="YdkpHB-milOF_5n023qd-11">
+        <mxCell id="YdkpHB-milOF_5n023qd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-10" target="YdkpHB-milOF_5n023qd-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-10" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pembelian Bahan Baku Penolong &lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="780" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-10" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pembelian Bahan Baku Penolong &lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="670" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-11" target="YdkpHB-milOF_5n023qd-12">
+        <mxCell id="YdkpHB-milOF_5n023qd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-11" target="YdkpHB-milOF_5n023qd-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-11" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penerimaan Bahan Baku&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="920" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-11" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penerimaan Bahan Baku&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="810" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-12" target="YdkpHB-milOF_5n023qd-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="60" y="1510" />
-              <mxPoint x="390" y="1510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-12" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penyortiran Awal&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1050" width="220" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-19" target="YdkpHB-milOF_5n023qd-21">
+        <mxCell id="YdkpHB-milOF_5n023qd-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-12" target="YdkpHB-milOF_5n023qd-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-19" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;Penimbangan Bahan&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1330" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-12" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penyortiran Awal&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="940" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-21" target="YdkpHB-milOF_5n023qd-23">
+        <mxCell id="YdkpHB-milOF_5n023qd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-19" target="YdkpHB-milOF_5n023qd-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-21" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pencampuran Adonan&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1190" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-19" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;&quot;&gt;Penimbangan Bahan&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1340" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-23" target="YdkpHB-milOF_5n023qd-24">
+        <mxCell id="YdkpHB-milOF_5n023qd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-21" target="YdkpHB-milOF_5n023qd-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-23" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pengulenan Adonan&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1050" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-21" value="&lt;span style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pencampuran Adonan&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1200" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-24" target="YdkpHB-milOF_5n023qd-25">
+        <mxCell id="YdkpHB-milOF_5n023qd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-23" target="YdkpHB-milOF_5n023qd-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-24" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penggilingan Adonan&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="920" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-23" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pengulenan Adonan&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1060" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-25" target="YdkpHB-milOF_5n023qd-26">
+        <mxCell id="YdkpHB-milOF_5n023qd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-24" target="YdkpHB-milOF_5n023qd-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-25" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penataan Stik Mentah&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="780" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-24" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penggilingan Adonan&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="930" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-26" target="YdkpHB-milOF_5n023qd-27">
+        <mxCell id="YdkpHB-milOF_5n023qd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-25" target="YdkpHB-milOF_5n023qd-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-26" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penggorengan Bertahap&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="650" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-25" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penataan Stik Mentah&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="790" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-27" target="YdkpHB-milOF_5n023qd-28">
+        <mxCell id="YdkpHB-milOF_5n023qd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-26" target="YdkpHB-milOF_5n023qd-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-27" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penirisan Minyak&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-26" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penggorengan Bertahap&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="660" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-28" target="YdkpHB-milOF_5n023qd-29">
+        <mxCell id="YdkpHB-milOF_5n023qd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-27" target="YdkpHB-milOF_5n023qd-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-28" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pendinginan Produk&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="393" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-27" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penirisan Minyak&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-29" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pemberian Bumbu&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="270" width="220" height="90" as="geometry" />
+        <mxCell id="YdkpHB-milOF_5n023qd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-28" target="YdkpHB-milOF_5n023qd-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YdkpHB-milOF_5n023qd-47" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pemberian Bumbu&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YdkpHB-milOF_5n023qd-28" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pendinginan Produk&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="403" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-29" target="YdkpHB-milOF_5n023qd-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-29" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pemberian Bumbu&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-47" target="YdkpHB-milOF_5n023qd-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-47" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pemeriksaan Mutu Produk&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="540" y="270" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-48" target="YdkpHB-milOF_5n023qd-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-48" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penimbangan Produk&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="393" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-49" target="YdkpHB-milOF_5n023qd-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-49" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pengemasan Produk&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="520" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-51" target="YdkpHB-milOF_5n023qd-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-51" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pelabelan Produk&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="650" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-52" target="YdkpHB-milOF_5n023qd-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-52" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Penyimpanan Produk Jadi&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="780" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-53" target="YdkpHB-milOF_5n023qd-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-53" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Pencatatan Produksi&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="920" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-54" target="YdkpHB-milOF_5n023qd-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-54" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Distribusi Produk&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1050" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="YdkpHB-milOF_5n023qd-55" target="YdkpHB-milOF_5n023qd-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-55" value="&lt;font face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;Evaluasi Produksi&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1190" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YdkpHB-milOF_5n023qd-65" value="End" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1345" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
