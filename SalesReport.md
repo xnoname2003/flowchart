@@ -473,10 +473,11 @@
     }
     ```
 10. Buat folder `exports` pada path `resources/views`
+
     <img width="404" height="430" alt="image" src="https://github.com/user-attachments/assets/282dbd92-8cf6-425a-a45e-b24d1bf40564" />
-11. Buat file `transaction-report.blade.php` pada folder `exports` pada path `resources/views`
+12. Buat file `transaction-report.blade.php` pada folder `exports` pada path `resources/views`
     <img width="406" height="433" alt="image" src="https://github.com/user-attachments/assets/6cff1fdb-d923-4532-af1b-698159869e1d" />
-12. Copy code dibawah ini ke dalam file `transaction-report.blade.php` (`resources/views/exports/transaction-report.blade.php`) yang telah dibuat
+13. Copy code dibawah ini ke dalam file `transaction-report.blade.php` (`resources/views/exports/transaction-report.blade.php`) yang telah dibuat
     ```
     <!DOCTYPE html>
     <html lang="id">
@@ -680,6 +681,6 @@
     </body>
     </html>
     ```
-13. Refresh projek di browser lalu ke menu `Transactions`, nanti ada tombol `Export Excel` dan `Export PDF`
+14. Refresh projek di browser lalu ke menu `Transactions`, nanti ada tombol `Export Excel` dan `Export PDF`
     <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/63be36d4-9a2a-4963-b89a-8bd634baf4b0" />
-14. Kalo error tanya guru besar gpt :)
+15. Kalo error tanya guru besar gpt :)
