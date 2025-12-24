@@ -25,7 +25,7 @@
     ```
     composer install
     ```
-5. Buat Folder `Export` pada path `app/Filament/Exports`
+5. Buat Folder `Export` pada path `app/Filament`
 
     <img width="405" height="208" alt="image" src="https://github.com/user-attachments/assets/5a1523c9-0748-4142-abb9-dbfcc9800f66" />
 6. Buat file `StyledExcelExport.php` dan `TransactionReportExport.php` pada folder `Export` di path `app/Filament/Exports`
