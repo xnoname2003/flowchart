@@ -683,4 +683,19 @@
     ```
 14. Refresh projek di browser lalu ke menu `Transactions`, nanti ada tombol `Export Excel` dan `Export PDF`
     <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/63be36d4-9a2a-4963-b89a-8bd634baf4b0" />
-15. Kalo error tanya guru besar gpt :)
+15. Test tombol nya bisa berfungsi gak
+16. Kalo udh bisa dan yakin, push ke repo sesuai branch nya
+    ```
+    git pull origin main
+    ```
+    ```
+    git add .
+    ```
+    ```
+    git commit -m "Add Sales Report"
+    ```
+    ```
+    git push -u origin revalina-sales-report
+    ```
+17. Kalo udh berhasil ke push, bilang gw :)
+18. Kalo error tanya guru besar gpt :)
