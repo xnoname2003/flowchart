@@ -96,9 +96,77 @@
    dir
    ```
    <img width="1405" height="362" alt="image" src="https://github.com/user-attachments/assets/3a04d0ed-a9a2-4b93-ac84-1b709063f7f3" />
+7. Hapus semua file yang ada pada path `/home/YOUR_USERNAME/public_html` dengan menjalankan perintah berikut, jika sudah klik `enter`
+   ```
+   cd /home/YOUR_USERNAME/public_html
+   ls -all
+   rm -rf ./* ./.*
+   ls -all
+   ```
+   <img width="789" height="495" alt="image" src="https://github.com/user-attachments/assets/dfe7b4b0-fea3-4618-92f6-f8dfd487411c" />
 ---
 
-## G. 
+## G. Setup Project di Server
+1. Masuk ke directory project dengan mengetikan perintah berikut, jika sudah klik `enter`.
+   ```
+   cd YOUR_PROJECT
+   ```
+   <img width="1073" height="128" alt="image" src="https://github.com/user-attachments/assets/980d96fe-010b-450b-a6b5-2a893ad728d5" />
+2. Update composer untuk mendownload `vendor` yang dibutuhkan laravel dengan menjalankan perintah berikut, jika sudah klik `enter`.
+   ```
+   composer update
+   ```
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/ab9e4fe8-b699-481e-9319-aac12a145933" />
+3. Copy file `.env.example` dengan nama `.env` dengan menjalankan perintah berikut, jika sudah klik `enter`.
+   ```
+   cp .env.example .env
+   ```
+   <img width="806" height="286" alt="image" src="https://github.com/user-attachments/assets/bd3acc41-25ae-4057-9095-d76efda9c095" />
+4. Generate key laravel dengan menjalankan perintah berikut, jika sudah klik `enter`.
+   ```
+   php artisan key:generate
+   ```
+   <img width="652" height="151" alt="image" src="https://github.com/user-attachments/assets/06b682cb-d59a-4cca-8825-3fd49d79d6dd" />
+6. Symlink `storage/app/public/menu-images` ke `public/storage/menu-images` dengan melakukan perintah berikut, jika sudah klik `enter`
+   ```
+   php artisan storage:link
+   ```
+   <img width="955" height="168" alt="image" src="https://github.com/user-attachments/assets/d73ea17e-a13d-4a35-acf2-7a48d367720e" />
+7. Edit file `.env` untuk mengatur environment yang dibutuhkan oleh web seperti database, midtrans, dll, menggunakan perintah berikut, jika sudah klik `CTRL + X`, kemudian pilih `y`, lalu klik `enter`
+   ```
+   nano .env
+   ```
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/932d50c4-a8e8-49bd-a675-0d209cea2d2d" />
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/e1cf3f37-7801-418a-88c0-d6d86b4a9b28" />
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/c6bb59c3-8151-4b19-822c-cf50c8219be8" />
+8. Symlink `/home/YOUR_USERNAME/YOUR_PROJECT/public` ke `/home/YOUR_USERNAME/public_html` dengan melakukan perintah berikut, jika sudah klik `enter`
+   ```
+   ln -s /home/YOUR_USERNAME/YOUR_PROJECT/public/* /home/YOUR_USERNAME/public_html
+   ln -s /home/YOUR_USERNAME/YOUR_PROJECT/public/.htaccess /home/YOUR_USERNAME/public_html
+   cd /home/YOUR_USERNAME/public_html && ls -l
+   ```
+   <img width="1152" height="79" alt="image" src="https://github.com/user-attachments/assets/516518a1-7203-45d6-b2a4-58140954c85f" />
+   <img width="1212" height="70" alt="image" src="https://github.com/user-attachments/assets/d8ca665e-3330-40b6-919b-9fd8f3b27e66" />
+   <img width="1285" height="263" alt="image" src="https://github.com/user-attachments/assets/dcd6d02c-e18a-45d9-b026-e4f8ed636b39" />
+   <img width="1469" height="712" alt="image" src="https://github.com/user-attachments/assets/d66ad392-981b-437e-97d1-aef246032d30" />
+9. Jalankan perintah berikut untuk migrate database dan seeder database, jika sudah klik `enter`
+    ```
+    php artisan migrate:fresh --seed
+    ```
+    <img width="1422" height="251" alt="image" src="https://github.com/user-attachments/assets/0a66e3d1-dd50-4392-8a8f-e5608b175a72" />
+    <img width="1428" height="286" alt="image" src="https://github.com/user-attachments/assets/d314c90e-7c60-4263-b7f3-4beb82549758" />
+
+
+
+
+   
+
+
+   
+
+
+   
+
 
    
 
