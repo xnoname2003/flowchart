@@ -39,7 +39,7 @@
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/03c54edc-4281-436b-b6c8-dd9a451f6caa" />
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/566abbb3-a5b6-4c3b-b570-e7728d49b212" />
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/604af8fd-4d41-4292-bf66-06603f501a5f" />
-4. Simpan nama database, username dan password users database di notepad agar tidak hilang.
+4. Simpan `nama database`, `username` dan `password` users database di notepad agar tidak hilang.
 5. Pada menu `Add User To Database` pilih pada kolom `User` dan `Database` sesuai dengan user dan database yang sudah dibuat untuk memberikan akses user ke database, jika sudah klik `Add`.
     <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/136dafd9-a21b-4e60-9a2e-f307031a8cda" />
 6. Pilih privilage apa yang digunakan user pada database, jika sudah klik `Make Changes`.
