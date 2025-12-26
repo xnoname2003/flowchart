@@ -10,6 +10,7 @@
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/6f31808c-f2a3-413b-9537-b8694c742ac5" />
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/760a9aee-5e1d-433f-aa70-2962d0f76932" />
 ---
+
 ## B. Setting Akses SSH ke Server
 1. Masuk cPanel AnymHost.
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/3fc2b5f9-e15b-4b36-abaa-696f4d3bac22" />
@@ -26,7 +27,27 @@
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/0d4b304c-a0bc-4ffe-b5cb-c810f2ccd028" />
 5. Simpan `public keys` dan `private keys` di notepad agar tidak hilang.
 ---
-## C. Setting Deploy Keys dan Personal Access Tokens(clasic) di GitHub
+
+## C. Setting Akses Database
+1. Masuk cPanel Anymhost, lalu klik `Manage My Database`.
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/82759c92-50c5-4b83-89b3-1e71302be3a7" />
+2. Pada menu `Create New Database` isi kolom `New Database` untuk membuat database baru, kemudian klik `Create Database`.
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/b7e36c54-aafa-4622-a2f2-223e26f34c1e" />
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/fd4ca541-d6e0-4cbf-b59f-f24982a0ad60" />
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/d1c21fb6-c330-477c-ade7-712511efbf61" />
+3. Pada menu `Database Users`, isi kolom `Add New User` untuk membuat user baru yang mengakses database, jika sudah klik `Create User`.
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/03c54edc-4281-436b-b6c8-dd9a451f6caa" />
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/566abbb3-a5b6-4c3b-b570-e7728d49b212" />
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/604af8fd-4d41-4292-bf66-06603f501a5f" />
+4. Simpan nama database, username dan password users database di notepad agar tidak hilang.
+5. Pada menu `Add User To Database` pilih pada kolom `User` dan `Database` sesuai dengan user dan database yang sudah dibuat untuk memberikan akses user ke database, jika sudah klik `Add`.
+    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/136dafd9-a21b-4e60-9a2e-f307031a8cda" />
+6. Pilih privilage apa yang digunakan user pada database, jika sudah klik `Make Changes`.
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/6f838e5d-d617-4e44-8c5d-b60a2853c494" />
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/f82e0d13-c57c-4295-a1bf-d509d3627459" />
+---
+
+## D. Setting Deploy Keys dan Personal Access Tokens(clasic) di GitHub
 1. Klik `Settings` pada repo yang ingin di deploy.
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/359ce66a-c87c-4dda-91aa-5121c07e5c83" />
 2. Klik `Deploy keys` pada sidebar menu.
@@ -37,7 +58,8 @@
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/02e8db95-058b-49ef-bce3-19c40133fccc" />
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/41675aba-3767-4e96-a356-4e6a86ae569c" />
 ---
-## D. Setting Personal Access Tokens(clasic) di GitHub.
+
+## E. Setting Personal Access Tokens(clasic) di GitHub.
 1. Klik `Settings` pada menu profile.
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/47238b33-8e2a-4acb-9df7-43afe9097903" />
 2. Klik `Developer Settings`.
@@ -52,7 +74,8 @@
 6. Copy `personal access tokens (classic)` di notepad agar tidak hilang.
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/57088197-2b3a-4e2c-9cae-f6a53ae7b4a6" />
 ---
-## E. Remote server menggunakan SSH dan cloning project Cafelora di server
+
+## F. Remote server menggunakan SSH dan cloning project Cafelora di server
 1. Tanyakan ke CS port berapa yang digunakan untuk akses ssh, Anymhost menggunakan port `6401`
 2. Catat `User_CPanel`, `HOSTNAME_SERVER`, dan `PASSWORD_CPanel` di notepad.
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/b5aff8ea-dcb3-4c3f-a332-13840cfcea00" />
@@ -68,6 +91,14 @@
    git clone https://<YOUR_PERSONAL_TOKENS>@github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>.git
    ```
    <img width="1421" height="104" alt="image" src="https://github.com/user-attachments/assets/2399042f-9728-43cc-879a-407d3b99451c" />
+6. Ketikan perintah berikut untuk memastikan project cafelora sudah di clone
+   ```
+   dir
+   ```
+   <img width="1405" height="362" alt="image" src="https://github.com/user-attachments/assets/3a04d0ed-a9a2-4b93-ac84-1b709063f7f3" />
+---
+
+## G. 
 
    
 
