@@ -9,7 +9,7 @@
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/6ca2be0f-1978-48e4-9506-20fb0479ffbd" />
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/6f31808c-f2a3-413b-9537-b8694c742ac5" />
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/760a9aee-5e1d-433f-aa70-2962d0f76932" />
-   
+---
 ## B. Setting Akses SSH ke Server
 1. Masuk cPanel AnymHost.
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/3fc2b5f9-e15b-4b36-abaa-696f4d3bac22" />
@@ -25,7 +25,7 @@
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/c7fd22a5-98bc-4ff8-a3ea-4785050d2458" />
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/0d4b304c-a0bc-4ffe-b5cb-c810f2ccd028" />
 5. Simpan `public keys` dan `private keys` di notepad agar tidak hilang.
-
+---
 ## C. Setting Deploy Keys dan Personal Access Tokens(clasic) di GitHub
 1. Klik `Settings` pada repo yang ingin di deploy.
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/359ce66a-c87c-4dda-91aa-5121c07e5c83" />
@@ -36,7 +36,7 @@
 4. Masukan `Title` dan `Key` lalu klik `Add key`, untuk key copy `public keys` pada point **B.4**.
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/02e8db95-058b-49ef-bce3-19c40133fccc" />
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/41675aba-3767-4e96-a356-4e6a86ae569c" />
-
+---
 ## D. Setting Personal Access Tokens(clasic) di GitHub.
 1. Klik `Settings` pada menu profile.
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/47238b33-8e2a-4acb-9df7-43afe9097903" />
@@ -51,7 +51,7 @@
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/8402147f-2e4e-42c3-acad-5ac9afba8bc3" />
 6. Copy `personal access tokens (classic)` di notepad agar tidak hilang.
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/57088197-2b3a-4e2c-9cae-f6a53ae7b4a6" />
-
+---
 ## E. 
 
 
