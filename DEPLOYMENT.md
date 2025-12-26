@@ -52,6 +52,24 @@
 6. Copy `personal access tokens (classic)` di notepad agar tidak hilang.
    <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/57088197-2b3a-4e2c-9cae-f6a53ae7b4a6" />
 ---
-## E. 
+## E. Remote server menggunakan SSH dan cloning project Cafelora di server
+1. Tanyakan ke CS port berapa yang digunakan untuk akses ssh, Anymhost menggunakan port `6401`
+2. Catat `User_CPanel`, `HOSTNAME_SERVER`, dan `PASSWORD_CPanel` di notepad.
+   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/b5aff8ea-dcb3-4c3f-a332-13840cfcea00" />
+3. Buka `terminal` pada laptop, kemudian ketikan perintah berikut, jika sudah klik `enter`
+   ```
+   ssh -p PORT USER_CPanel@HOSTNAME_SERVER
+   ```
+   <img width="680" height="106" alt="image" src="https://github.com/user-attachments/assets/85fa0053-99b8-499c-8314-4b5a4ef44c96" />
+4. Masukan password CPanel pada `terminal`, lalu klik `enter` nanti akan otomatis masuk ke server via `terminal`
+   <img width="975" height="174" alt="image" src="https://github.com/user-attachments/assets/6fe14cf7-e5f4-4794-a1c2-0af0ece09d76" />
+5. Setelah masuk ke server, ketikan perintah berikut untuk clone repository, jika sudah klik `enter`
+   ```
+   git clone https://<YOUR_PERSONAL_TOKENS>@github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>.git
+   ```
+   <img width="1421" height="104" alt="image" src="https://github.com/user-attachments/assets/2399042f-9728-43cc-879a-407d3b99451c" />
+
+   
+
 
 
