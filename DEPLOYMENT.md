@@ -157,8 +157,8 @@
     <img width="1428" height="286" alt="image" src="https://github.com/user-attachments/assets/d314c90e-7c60-4263-b7f3-4beb82549758" />
 ---
 ## H. Hasil Akhir
-1. Tampilan Pelanggan (cafelora.my.id)
-2. Tampilan Admin dan Staff (cafelora.my.id/admin)
+1. Tampilan [Pelanggan](https://cafelora.my.id/)
+2. Tampilan [Admin dan Staff](https://cafelora.my.id/admin/)
 
 
 
