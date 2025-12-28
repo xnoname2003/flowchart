@@ -155,6 +155,10 @@
     ```
     <img width="1422" height="251" alt="image" src="https://github.com/user-attachments/assets/0a66e3d1-dd50-4392-8a8f-e5608b175a72" />
     <img width="1428" height="286" alt="image" src="https://github.com/user-attachments/assets/d314c90e-7c60-4263-b7f3-4beb82549758" />
+---
+## H. Hasil Akhir
+1. Tampilan Pelanggan (cafelora.my.id)
+2. Tampilan Admin dan Staff (cafelora.my.id/admin)
 
 
 
