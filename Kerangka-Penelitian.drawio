@@ -95,13 +95,13 @@
           <mxGeometry height="32" width="120" x="380" y="630" as="geometry" />
         </mxCell>
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="HTML5" vertex="1">
-          <mxGeometry height="32" width="120" x="830" y="569" as="geometry" />
+          <mxGeometry height="32" width="120" x="830" y="570" as="geometry" />
         </mxCell>
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="CSS3" vertex="1">
-          <mxGeometry height="32" width="120" x="830" y="609" as="geometry" />
+          <mxGeometry height="32" width="120" x="830" y="610" as="geometry" />
         </mxCell>
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="Tailwind CSS v3.4.13" vertex="1">
-          <mxGeometry height="36" width="120" x="830" y="649" as="geometry" />
+          <mxGeometry height="36" width="120" x="830" y="650" as="geometry" />
         </mxCell>
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-38" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-32" style="endArrow=none;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;rounded=0;curved=0;" target="fTyH0j3n_jQUCsVNDcWE-5">
           <mxGeometry relative="1" as="geometry" />
