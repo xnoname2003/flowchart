@@ -43,7 +43,7 @@
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-13" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-6" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="fTyH0j3n_jQUCsVNDcWE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" value="1. Perancangan Sistem Informasi&amp;nbsp;&lt;i&gt;VerixaLoker&lt;/i&gt;&amp;nbsp;Berbasis Web&amp;nbsp;untuk Identifikasi Lowongan Kerja Palsu pada Internet&lt;br&gt;2. Menggunakan framework Laravel, basis data MySQL, dan n8n&lt;br&gt;3. Pembuatan sistem menggunakan metode Waterfall" vertex="1">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" value="1. Perancangan Sistem Informasi&amp;nbsp;VerixaLoker&amp;nbsp;Berbasis Web&amp;nbsp;untuk Identifikasi Lowongan Kerja Palsu pada Internet&lt;br&gt;2. Menggunakan framework Laravel, basis data MySQL, dan n8n&lt;br&gt;3. Pembuatan sistem menggunakan metode Waterfall" vertex="1">
           <mxGeometry height="110" width="260" x="800" y="80" as="geometry" />
         </mxCell>
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-15" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;startArrow=classic;startFill=1;" target="fTyH0j3n_jQUCsVNDcWE-14">
