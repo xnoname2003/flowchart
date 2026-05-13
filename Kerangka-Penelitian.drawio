@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="yfmV3Sks-nrF4BvnnPUG">
-    <mxGraphModel dx="714" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,10 +43,10 @@
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-13" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-6" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="fTyH0j3n_jQUCsVNDcWE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" value="1. Pengembangan Sistem Informasi Manajemen Produksi pada UD Marmer Batu Alam Berbasis Web&#xa;2. Menggunakan framework Laravel dan Tailwind CSS&#xa;3. Pembuatan sistem informasi menggunakan metode Waterfall" vertex="1">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" value="1. Perancangan Sistem Informasi&amp;nbsp;&lt;i&gt;VerixaLoker&lt;/i&gt;&amp;nbsp;Berbasis Web&amp;nbsp;untuk Identifikasi Lowongan Kerja Palsu pada Internet&lt;br&gt;2. Menggunakan framework Laravel, basis data MySQL, dan n8n&lt;br&gt;3. Pembuatan sistem menggunakan metode Waterfall" vertex="1">
           <mxGeometry height="110" width="260" x="800" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-15" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="fTyH0j3n_jQUCsVNDcWE-14">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-15" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;startArrow=classic;startFill=1;" target="fTyH0j3n_jQUCsVNDcWE-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="Studi Literatur" vertex="1">
@@ -67,31 +67,31 @@
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="ERD" vertex="1">
           <mxGeometry height="32" width="120" x="830" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-26" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-22" style="endArrow=none;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="fTyH0j3n_jQUCsVNDcWE-3">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-26" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-22" style="endArrow=classic;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;endFill=1;" target="fTyH0j3n_jQUCsVNDcWE-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-27" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-3" style="endArrow=none;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="fTyH0j3n_jQUCsVNDcWE-23">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-27" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-3" style="endArrow=none;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;startArrow=classic;startFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;curved=0;" target="fTyH0j3n_jQUCsVNDcWE-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-28" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-3" style="endArrow=none;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="fTyH0j3n_jQUCsVNDcWE-24">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-28" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-3" style="endArrow=none;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;startArrow=classic;startFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;curved=0;" target="fTyH0j3n_jQUCsVNDcWE-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-29" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-3" style="endArrow=none;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="fTyH0j3n_jQUCsVNDcWE-25">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-29" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-3" style="endArrow=none;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;startArrow=classic;startFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;curved=0;" target="fTyH0j3n_jQUCsVNDcWE-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="Balsamiq" vertex="1">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="Figma" vertex="1">
           <mxGeometry height="36" width="120" x="380" y="477" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-31" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-30" style="endArrow=none;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="fTyH0j3n_jQUCsVNDcWE-4">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-31" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-30" style="endArrow=classic;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;endFill=1;" target="fTyH0j3n_jQUCsVNDcWE-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="PHP v8.3.26" vertex="1">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="PHP v8.5.6" vertex="1">
           <mxGeometry height="32" width="120" x="380" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="Laravel 11" vertex="1">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="Laravel 13" vertex="1">
           <mxGeometry height="32" width="120" x="380" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="MySQL v8.0.30" vertex="1">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="MySQL v8.0.40&amp;nbsp;" vertex="1">
           <mxGeometry height="32" width="120" x="380" y="630" as="geometry" />
         </mxCell>
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="HTML5" vertex="1">
