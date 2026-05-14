@@ -40,6 +40,9 @@
         <mxCell id="tpk4NFvTETpMxjlwoaVb-3" parent="tpk4NFvTETpMxjlwoaVb-1" style="swimlane;startSize=20;html=1;" value="PELAPOR" vertex="1">
           <mxGeometry height="1120" width="170" x="149.99999999999955" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-27" edge="1" parent="tpk4NFvTETpMxjlwoaVb-3" source="tpk4NFvTETpMxjlwoaVb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tpk4NFvTETpMxjlwoaVb-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tpk4NFvTETpMxjlwoaVb-17" parent="tpk4NFvTETpMxjlwoaVb-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Register / Login" vertex="1">
           <mxGeometry height="60" width="120" x="25" y="354.5" as="geometry" />
         </mxCell>
