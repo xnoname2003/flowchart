@@ -1,9 +1,62 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="AH_DpkCW8G2NKo0yafp_">
-    <mxGraphModel>
+    <mxGraphModel dx="2054" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Workflow Verifikasi Lowongan Kerja" vertex="1">
+          <mxGeometry height="1140" width="439.99999999999955" x="230.00000000000045" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-2" parent="tpk4NFvTETpMxjlwoaVb-1" style="swimlane;startSize=20;html=1;" value="GUEST" vertex="1">
+          <mxGeometry height="1120" width="149.99999999999955" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-20" edge="1" parent="tpk4NFvTETpMxjlwoaVb-2" source="tpk4NFvTETpMxjlwoaVb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tpk4NFvTETpMxjlwoaVb-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-9" parent="tpk4NFvTETpMxjlwoaVb-2" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="START" vertex="1">
+          <mxGeometry height="30" width="80" x="34.999999999999545" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-21" edge="1" parent="tpk4NFvTETpMxjlwoaVb-2" source="tpk4NFvTETpMxjlwoaVb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tpk4NFvTETpMxjlwoaVb-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-11" parent="tpk4NFvTETpMxjlwoaVb-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Verifikasi Lowongan Pekerjaan&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="14.999999999999545" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-22" edge="1" parent="tpk4NFvTETpMxjlwoaVb-2" source="tpk4NFvTETpMxjlwoaVb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tpk4NFvTETpMxjlwoaVb-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-13" parent="tpk4NFvTETpMxjlwoaVb-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Hasil Verifikasi Lowongan Pekerjaan" vertex="1">
+          <mxGeometry height="60" width="120" x="14.999999999999545" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-14" parent="tpk4NFvTETpMxjlwoaVb-2" style="rhombus;whiteSpace=wrap;html=1;" value="Laporkan Loker?" vertex="1">
+          <mxGeometry height="80" width="80" x="34.999999999999545" y="344.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-25" parent="tpk4NFvTETpMxjlwoaVb-2" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="END" vertex="1">
+          <mxGeometry height="30" width="80" x="34.999999999999545" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-26" edge="1" parent="tpk4NFvTETpMxjlwoaVb-2" source="tpk4NFvTETpMxjlwoaVb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="tpk4NFvTETpMxjlwoaVb-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-3" parent="tpk4NFvTETpMxjlwoaVb-1" style="swimlane;startSize=20;html=1;" value="PELAPOR" vertex="1">
+          <mxGeometry height="1120" width="170" x="149.99999999999955" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-17" parent="tpk4NFvTETpMxjlwoaVb-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Register / Login" vertex="1">
+          <mxGeometry height="60" width="120" x="25" y="354.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-24" parent="tpk4NFvTETpMxjlwoaVb-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Isi Form Laporan" vertex="1">
+          <mxGeometry height="60" width="120" x="25" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-4" parent="tpk4NFvTETpMxjlwoaVb-1" style="swimlane;startSize=20;html=1;" value="ADMIN" vertex="1">
+          <mxGeometry height="1120" width="120" x="319.99999999999955" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-18" edge="1" parent="tpk4NFvTETpMxjlwoaVb-1" source="tpk4NFvTETpMxjlwoaVb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tpk4NFvTETpMxjlwoaVb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-19" connectable="0" parent="tpk4NFvTETpMxjlwoaVb-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.3167" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
