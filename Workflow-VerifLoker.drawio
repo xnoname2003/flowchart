@@ -60,7 +60,7 @@
         <mxCell id="tpk4NFvTETpMxjlwoaVb-28" parent="tpk4NFvTETpMxjlwoaVb-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Kirim Laporan (Status: Pending)" vertex="1">
           <mxGeometry height="60" width="120" x="25" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="tpk4NFvTETpMxjlwoaVb-46" parent="tpk4NFvTETpMxjlwoaVb-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Status Laporan Jadi &quot;Approved/Rejected&quot;&amp;nbsp;" vertex="1">
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-46" parent="tpk4NFvTETpMxjlwoaVb-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Melihat Pembaruan Status Laporan" vertex="1">
           <mxGeometry height="60" width="120" x="25" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="tpk4NFvTETpMxjlwoaVb-18" edge="1" parent="tpk4NFvTETpMxjlwoaVb-1" source="tpk4NFvTETpMxjlwoaVb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tpk4NFvTETpMxjlwoaVb-17">
