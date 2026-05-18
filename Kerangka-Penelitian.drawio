@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="yfmV3Sks-nrF4BvnnPUG">
-    <mxGraphModel dx="1753" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="CSS3" vertex="1">
           <mxGeometry height="32" width="120" x="830" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="fTyH0j3n_jQUCsVNDcWE-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="Tailwind CSS v3.4.13" vertex="1">
+        <mxCell id="fTyH0j3n_jQUCsVNDcWE-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;" value="Tailwind CSS v4.3" vertex="1">
           <mxGeometry height="36" width="120" x="830" y="630" as="geometry" />
         </mxCell>
         <mxCell id="fTyH0j3n_jQUCsVNDcWE-38" edge="1" parent="1" source="fTyH0j3n_jQUCsVNDcWE-32" style="endArrow=none;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;rounded=0;curved=0;" target="fTyH0j3n_jQUCsVNDcWE-5">
