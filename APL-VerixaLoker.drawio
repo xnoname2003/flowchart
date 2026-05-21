@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0gd_UqL2Wvc8AEI8QQGb-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" value="&lt;div style=&quot;&quot;&gt;Sistem Informasi VerixaLoker&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="330" x="675" y="210" as="geometry" />
+          <mxGeometry height="70" width="330" x="675" y="230" as="geometry" />
         </mxCell>
         <mxCell id="0gd_UqL2Wvc8AEI8QQGb-3" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;" value="" vertex="1">
           <mxGeometry height="200" width="260" x="710" y="300" as="geometry" />
