@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="AH_DpkCW8G2NKo0yafp_">
-    <mxGraphModel dx="2054" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tpk4NFvTETpMxjlwoaVb-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Workflow Verifikasi Lowongan Kerja" vertex="1">
+        <mxCell id="tpk4NFvTETpMxjlwoaVb-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Workflow&amp;nbsp;Sistem Informasi VerixaLoker" vertex="1">
           <mxGeometry height="1140" width="729.9999999999995" x="230.00000000000045" y="140" as="geometry" />
         </mxCell>
         <mxCell id="tpk4NFvTETpMxjlwoaVb-2" parent="tpk4NFvTETpMxjlwoaVb-1" style="swimlane;startSize=20;html=1;" value="GUEST" vertex="1">
