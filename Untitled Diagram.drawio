@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Struktur Folder CI4" id="OBNBkac0-XIGA_gT3gam">
-    <mxGraphModel dx="1121" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1161" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_asq6ANbuKmxRGLRu-Pg-130" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#D81B60;fontSize=13;" value="Folder ini akan berisi kode dari aplikasi yang kita kembangkan&#xa;(mengatur model, tampilan/view, dan controller alur aplikasi)" vertex="1">
+        <mxCell id="_asq6ANbuKmxRGLRu-Pg-130" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#D81B60;fontSize=13;" value="&lt;font&gt;Folder ini akan berisi kode dari aplikasi yang kita kembangkan&lt;br&gt;(mengatur model, tampilan/view, dan controller alur aplikasi)&lt;/font&gt;" vertex="1">
           <mxGeometry height="45" width="380" x="900" y="650" as="geometry" />
         </mxCell>
         <mxCell id="_asq6ANbuKmxRGLRu-Pg-131" edge="1" parent="1" style="edgeStyle=none;html=1;strokeColor=#D81B60;strokeWidth=2;endArrow=classic;">
