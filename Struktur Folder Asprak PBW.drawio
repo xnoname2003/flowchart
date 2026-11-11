@@ -1,0 +1,164 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Ilustrasi Routes CI4" id="_HAujnE5ZcHXJ5-EI-DE">
+    <mxGraphModel dx="1108" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F06500;strokeColor=none;fontColor=#FFFFFF;fontSize=22;fontStyle=1;arcSize=18;" value="p8-akademik-ci4/" vertex="1">
+          <mxGeometry height="65" width="220" x="510" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#F06500;strokeWidth=2.5;dashed=1;dashPattern=6 6;arcSize=10;" value="" vertex="1">
+          <mxGeometry height="145" width="245" x="775" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7DF3E;strokeColor=none;fontColor=#222222;fontSize=18;fontStyle=1;arcSize=25;" value="app/" vertex="1">
+          <mxGeometry height="44" width="85" x="790" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-39" edge="1" parent="1" source="fMNOHxV5c3TDI9OpqVcC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#7A8B99;strokeWidth=3;endArrow=none;" target="fMNOHxV5c3TDI9OpqVcC-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="928" />
+              <mxPoint x="755" y="702" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-40" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7A8B99;strokeWidth=2.5;fontColor=#222222;fontSize=15;fontStyle=1;align=left;spacingLeft=4;shape=line;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;" value="Models/" vertex="1">
+          <mxGeometry height="10" width="95" x="905" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-41" edge="1" parent="1" source="fMNOHxV5c3TDI9OpqVcC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#7A8B99;strokeWidth=2.5;endArrow=none;" target="fMNOHxV5c3TDI9OpqVcC-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="702" />
+              <mxPoint x="890" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-42" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7A8B99;strokeWidth=2.5;fontColor=#222222;fontSize=15;fontStyle=1;align=left;spacingLeft=4;shape=line;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;" value="Views/" vertex="1">
+          <mxGeometry height="10" width="85" x="905" y="697" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-43" edge="1" parent="1" source="fMNOHxV5c3TDI9OpqVcC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#7A8B99;strokeWidth=2.5;endArrow=none;" target="fMNOHxV5c3TDI9OpqVcC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-44" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7A8B99;strokeWidth=2.5;fontColor=#222222;fontSize=15;fontStyle=1;align=left;spacingLeft=4;shape=line;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;" value="Controllers/" vertex="1">
+          <mxGeometry height="10" width="100" x="905" y="738" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-45" edge="1" parent="1" source="fMNOHxV5c3TDI9OpqVcC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#7A8B99;strokeWidth=2.5;endArrow=none;" target="fMNOHxV5c3TDI9OpqVcC-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="702" />
+              <mxPoint x="890" y="743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-46" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#C2185B;fontSize=16;fontStyle=1;" value="Berisi kode aplikasi yang kita kembangkan&#xa;(mengatur Model, tampilan View, &amp; alur Controller)" vertex="1">
+          <mxGeometry height="60" width="420" x="1095" y="672" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-47" edge="1" parent="1" style="edgeStyle=none;html=1;strokeColor=#C2185B;strokeWidth=3;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="702" as="sourcePoint" />
+            <mxPoint x="1030" y="702" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7DF3E;strokeColor=none;fontColor=#222222;fontSize=18;fontStyle=1;arcSize=25;" value="public/" vertex="1">
+          <mxGeometry height="44" width="110" x="790" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-49" edge="1" parent="1" source="fMNOHxV5c3TDI9OpqVcC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#7A8B99;strokeWidth=3;endArrow=none;" target="fMNOHxV5c3TDI9OpqVcC-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="928" />
+              <mxPoint x="755" y="822" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-50" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#C2185B;fontSize=16;fontStyle=1;" value="Folder berisi file yang bisa diakses oleh publik" vertex="1">
+          <mxGeometry height="44" width="480" x="995" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-51" edge="1" parent="1" style="edgeStyle=none;html=1;strokeColor=#C2185B;strokeWidth=3;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="985" y="822" as="sourcePoint" />
+            <mxPoint x="910" y="822" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7DF3E;strokeColor=none;fontColor=#222222;fontSize=18;fontStyle=1;arcSize=25;" value="tests/" vertex="1">
+          <mxGeometry height="44" width="110" x="790" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-53" edge="1" parent="1" source="fMNOHxV5c3TDI9OpqVcC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#7A8B99;strokeWidth=3;endArrow=none;" target="fMNOHxV5c3TDI9OpqVcC-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="928" />
+              <mxPoint x="755" y="892" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-54" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#C2185B;fontSize=16;fontStyle=1;" value="Folder berisi file untuk pengujian aplikasi (testing)" vertex="1">
+          <mxGeometry height="44" width="480" x="995" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-55" edge="1" parent="1" style="edgeStyle=none;html=1;strokeColor=#C2185B;strokeWidth=3;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="985" y="892" as="sourcePoint" />
+            <mxPoint x="910" y="892" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7DF3E;strokeColor=none;fontColor=#222222;fontSize=18;fontStyle=1;arcSize=25;" value="vendor/" vertex="1">
+          <mxGeometry height="44" width="110" x="790" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-57" edge="1" parent="1" source="fMNOHxV5c3TDI9OpqVcC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#7A8B99;strokeWidth=3;endArrow=none;" target="fMNOHxV5c3TDI9OpqVcC-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="928" />
+              <mxPoint x="755" y="962" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-58" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#C2185B;fontSize=16;fontStyle=1;" value="Folder berisi library yang dibutuhkan oleh aplikasi" vertex="1">
+          <mxGeometry height="44" width="480" x="995" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-59" edge="1" parent="1" style="edgeStyle=none;html=1;strokeColor=#C2185B;strokeWidth=3;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="985" y="962" as="sourcePoint" />
+            <mxPoint x="910" y="962" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7DF3E;strokeColor=none;fontColor=#222222;fontSize=18;fontStyle=1;arcSize=25;" value="writable/" vertex="1">
+          <mxGeometry height="44" width="110" x="790" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-61" edge="1" parent="1" source="fMNOHxV5c3TDI9OpqVcC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#7A8B99;strokeWidth=3;endArrow=none;" target="fMNOHxV5c3TDI9OpqVcC-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="928" />
+              <mxPoint x="755" y="1032" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-62" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#C2185B;fontSize=16;fontStyle=1;" value="Folder berisi file yang bisa ditulis oleh aplikasi" vertex="1">
+          <mxGeometry height="44" width="480" x="995" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-63" edge="1" parent="1" style="edgeStyle=none;html=1;strokeColor=#C2185B;strokeWidth=3;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="985" y="1032" as="sourcePoint" />
+            <mxPoint x="910" y="1032" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7DF3E;strokeColor=none;fontColor=#222222;fontSize=18;fontStyle=1;arcSize=25;" value="builds" vertex="1">
+          <mxGeometry height="44" width="110" x="790" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-65" edge="1" parent="1" source="fMNOHxV5c3TDI9OpqVcC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#7A8B99;strokeWidth=3;endArrow=none;" target="fMNOHxV5c3TDI9OpqVcC-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="928" />
+              <mxPoint x="755" y="1102" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-66" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#C2185B;fontSize=16;fontStyle=1;" value="Folder berisi file untuk membangun aplikasi" vertex="1">
+          <mxGeometry height="44" width="480" x="995" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="fMNOHxV5c3TDI9OpqVcC-67" edge="1" parent="1" style="edgeStyle=none;html=1;strokeColor=#C2185B;strokeWidth=3;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="985" y="1102" as="sourcePoint" />
+            <mxPoint x="910" y="1102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
